@@ -1,0 +1,8 @@
+3 3
+90 60 50
+Pabrik_W Pabrik_H Pabrik_O
+50 110 40
+Surabaya Jakarta Balikpapan
+20 5 8
+15 20 10
+25 10 19

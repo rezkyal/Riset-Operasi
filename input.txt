@@ -1,0 +1,8 @@
+4 3
+15 25 5
+Motor Mobil Becak
+5 15 15 10
+Surabaya Jakarta Balikpapan Malang
+10 0 20 11
+12 7 9 20
+0 14 16 18
